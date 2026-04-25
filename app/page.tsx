@@ -22,7 +22,7 @@ const Home = () => {
         </div>
 
         <div className="relative w-full h-37.5 mt-6">
-          <Image src="/banner-01.png" alt="Agende nos melhores com FSW" className="object-cover rounded-xl" fill/>
+          <Image src="/banner-dennys.png" alt="Agende nos melhores com Dennys Styller" className="object-cover rounded-xl" fill/>
         </div>
       </div>
     </div>
